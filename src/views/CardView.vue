@@ -17,6 +17,7 @@ const colors = ["blue", "red"];
     display: flex;
     justify-content: center;
     align-items: center;
+    background: white;
 }
 
 @media (min-width: 1024px) {
